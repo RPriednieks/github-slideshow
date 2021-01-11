@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Šis ir trešais slaids!"
+title: "Šis ir otrais slaids!"
 
 ---
 
